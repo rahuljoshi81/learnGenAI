@@ -11,7 +11,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain_community.chat_models import ChatOpenAI
 
 #Open API Keys
-OPENAI_API_KEY ="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"
+OPENAI_API_KEY =""
 #upload PDF files
 st.header("LAAIT: Log Analyzer AI Tool")
 #We can upload multiple files as well. Need to write code to handle multiple file.
