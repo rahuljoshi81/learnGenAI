@@ -9,7 +9,7 @@ from langchain_community.chat_models import ChatOpenAI
 
 
 #Open API Keys
-OPENAI_API_KEY ="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"
+OPENAI_API_KEY =""
 #upload PDF files
 st.header("SDWAN Chatbot")
 
