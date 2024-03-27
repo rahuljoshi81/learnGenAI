@@ -1,0 +1,2 @@
+# learnGenAI
+Scripts for GenAI
